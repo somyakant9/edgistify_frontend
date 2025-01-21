@@ -46,13 +46,7 @@ This project is the frontend for an e-commerce platform, built using React, Chak
    ```bash
    npm install
    ```
-
-4. Create a `.env` file at the root of the project with the following content:
-   ```env
-   REACT_APP_API_BASE_URL=<your-backend-api-url>
-   ```
-
-5. Start the development server:
+4. Start the development server:
    ```bash
    npm start
    ```
